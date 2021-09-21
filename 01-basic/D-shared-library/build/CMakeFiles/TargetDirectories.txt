@@ -1,0 +1,4 @@
+D:/workSpace/VSCODE/cmakePractise/01-basic/D-shared-library/build/CMakeFiles/hello_library.dir
+D:/workSpace/VSCODE/cmakePractise/01-basic/D-shared-library/build/CMakeFiles/hello_binary.dir
+D:/workSpace/VSCODE/cmakePractise/01-basic/D-shared-library/build/CMakeFiles/edit_cache.dir
+D:/workSpace/VSCODE/cmakePractise/01-basic/D-shared-library/build/CMakeFiles/rebuild_cache.dir
